@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "HocJavaOOP/BaiThucHanhSo1/src",
-        "HocJavaOOP/BaiThucHanhSo2"
+        "HocJavaOOP\\BaiThucHanh2102",
+        "HocJavaOOP\\BaiThucHanh2802",
+        "HocJavaOOP\\BaiThucHanhSo2",
+        "HocJavaOOP\\BaiThucHanh0703",
+        "HocJavaOOP\\BaiThucHanhChuong2"
     ]
 }
