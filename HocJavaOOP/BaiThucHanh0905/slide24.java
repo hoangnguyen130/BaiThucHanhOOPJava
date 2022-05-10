@@ -20,5 +20,6 @@ public class slide24 {
             }
         }
         System.out.println("Phan tu lon nhat la: " + max);
+        scan.close();
     }
 }
